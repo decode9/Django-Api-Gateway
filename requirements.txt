@@ -1,4 +1,4 @@
-﻿asgiref==3.2.3
+asgiref==3.2.3
 autopep8==1.5
 Django==3.0.3
 djangorestframework==3.11.2
@@ -9,4 +9,4 @@ pycodestyle==2.5.0
 pytz==2019.3
 Rx==3.0.1
 six==1.14.0
-sqlparse==0.3.0
+sqlparse==0.4.4
